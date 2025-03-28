@@ -21,3 +21,10 @@ Universidad Carlos III de Madrid
 
 ### Multiclass Classification: Type of Addiction Detection
 > As all users are at risk (low or high), no matter the decision, for all of them the model should identify the specific type of addiction associated with the disorder..The available labels are Betting, Online Gaming, Trading, and Lootboxes.
+
+## Quick Start
+Create `.env` file with the MentalRisk secrets
+```sh
+SERVER_URL=<url>
+ACCESS_TOKEN=<token>
+```
